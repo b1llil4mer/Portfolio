@@ -1,2 +1,4 @@
-Вот так я выгляжу после выполнения ДЗ
-![](https://imgur.com/t/rick_and_morty/4vjHxJF)
+
+# Вот так я выгляжу после выполнения ДЗ
+
+![](https://i.imgur.com/nuTypxR.jpeg)
